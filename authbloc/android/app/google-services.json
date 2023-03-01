@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "447357002421",
+    "project_id": "vinauth-74ccb",
+    "storage_bucket": "vinauth-74ccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447357002421:android:b8ff2d12189fb560d114fc",
+        "android_client_info": {
+          "package_name": "com.example.authbloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447357002421-tc19amquuu7a1pjo7udgga0bse18qhdj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.authbloc",
+            "certificate_hash": "ddd98ae0f0314125ac2c14be3d0fca328242ae64"
+          }
+        },
+        {
+          "client_id": "447357002421-ra040u6v8nl9smdi4ecn76b3uiam8sau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXRa4OP0nGv2T_tYEf1HtI3h0W9znm8fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447357002421-ra040u6v8nl9smdi4ecn76b3uiam8sau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
